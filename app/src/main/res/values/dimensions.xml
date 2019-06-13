@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name ="side">45dp</dimen>
+    <dimen name ="side_other">35dp</dimen>
+    <dimen name ="side_player">30dp</dimen>
+</resources>
